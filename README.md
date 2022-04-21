@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @StungInDaBut
+- 👀 I’m interested in Crypto
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on smart contracts
+- 📫 How to reach me ... twitter
