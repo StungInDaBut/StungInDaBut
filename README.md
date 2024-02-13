@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @StungInDaBut
 - 👀 I’m interested in Crypto
 - 🌱 I’m currently learning Solidity and Python
-- 💞️ I’m looking to collaborate on smart contracts
+-  I’m looking to collaborate on smart contracts
